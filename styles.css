@@ -1,0 +1,122 @@
+
+a{
+    color: #16a596;
+}
+
+body{
+  margin: 0;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+
+h1 {
+  margin: 0px;
+  padding-top: 150px;
+  font-family: 'Tangerine', sans-serif;
+  color: #71c9ce;
+  font-size: 80px;
+}
+
+h2{
+  font-size: 2.5rem;
+  font-family: 'Merienda', sans-serif;
+}
+
+h3{
+  color: #222831;
+  font-family: 'Mali', sans-serif;
+}
+
+hr{
+  width: 5%;
+  height: 50px;
+  border: solid;
+  border-top-style: dotted;
+  border-bottom-style: none;
+  border-left-style: none;
+  border-right-style: none;
+  border-color: #eaffd0;
+
+}
+
+p{
+  font-family: 'Mali', sans-serif;
+}
+
+.artist{
+  color: #71c9ce;
+  font-size: 25px;
+  font-weight: normal;
+  line-height: 2px;
+}
+
+.get{
+  font-size: 30px;
+  font-family: 'Bad Script', sans-serif;
+}
+
+
+.cloud1{
+  position: absolute;
+  right: 380px;
+  top: 80px;
+}
+
+.cloud2{
+  position: absolute;
+
+}
+
+.code-img{
+  width: 25%;
+
+}
+.hello{
+  font-family: 'Merienda', sans-serif;
+}
+.top_container {
+  background-color: #222831;
+}
+
+.skils{
+  font-size: 25px;
+}
+.skill-row{
+  line-height: 2;
+}
+
+.btn{
+  display: block;
+  padding-bottom: 10px;
+  background-color: #222831;
+  color: white;
+}
+
+.footer-link{
+  color: white;
+
+}
+
+
+.bottom-container{
+    background-color: #222831;
+    margin: 0;
+    margin-bottom: 0;
+}
+
+.sket{
+  font-family: 'Bad Script', sans-serif;
+  font-size: 25px;
+  color: black;
+}
+
+.love{
+  color: black;
+  font-family: 'Bad Script', sans-serif;
+  font-size: 25px;
+}
+
+.last{
+  color: white;
+}
